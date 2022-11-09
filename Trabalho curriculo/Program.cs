@@ -20,6 +20,7 @@ namespace Trabalho_curriculo
             String CEP;
             String escolaridade; 
 
+            Console.WriteLine("Este é seu currículo, preencha as informações conforme serão solicitadas!");
             Console.WriteLine("Digte seu nome");
             nome = Console.ReadLine();
             Console.WriteLine("Digite seu sobrenome");
