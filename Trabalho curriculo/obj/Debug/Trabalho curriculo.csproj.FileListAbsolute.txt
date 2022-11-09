@@ -5,3 +5,10 @@ C:\Users\Tecnico\source\repos\Trabalho curriculo\Trabalho curriculo\obj\Debug\Tr
 C:\Users\Tecnico\source\repos\Trabalho curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.csproj.CoreCompileInputs.cache
 C:\Users\Tecnico\source\repos\Trabalho curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.exe
 C:\Users\Tecnico\source\repos\Trabalho curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.pdb
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.csproj.AssemblyReference.cache
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.csproj.CoreCompileInputs.cache
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.exe
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\obj\Debug\Trabalho curriculo.pdb
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\bin\Debug\Trabalho curriculo.exe.config
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\bin\Debug\Trabalho curriculo.exe
+C:\Users\User\Trabalho-curriculo\Trabalho curriculo\bin\Debug\Trabalho curriculo.pdb

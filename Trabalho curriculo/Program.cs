@@ -17,6 +17,9 @@ namespace Trabalho_curriculo
             String CPF;
             String endereço;
             String cidade;
+            String CEP;
+            String escolaridade; 
+
             Console.WriteLine("Digte seu nome");
             nome = Console.ReadLine();
             Console.WriteLine("Digite seu sobrenome");
@@ -31,12 +34,18 @@ namespace Trabalho_curriculo
             endereço = Console.ReadLine();
             Console.WriteLine("Digite sua cidade");
             cidade = Console.ReadLine();
+            Console.WriteLine("Digite seu CEP");
+            CEP = Console.ReadLine();
+            Console.WriteLine("Digite seu grau de escolaridade");
+            escolaridade = Console.ReadLine();
+
             Console.WriteLine("_________________________________Informações do candidato_______________________________________");
-            Console.WriteLine("Nome completo:" +" " + nome+ "" +sobrenome);
+            Console.WriteLine("Nome completo:" + " " + nome+ " " +sobrenome);
+            Console.WriteLine("Seu grau de escolaridade:"+ " " +escolaridade);
             Console.WriteLine("Número de telefone:" +" " +telefone);
             Console.WriteLine("Seu CPF:" +" " +CPF);
-            Console.WriteLine("Seu endereço:" + " " +endereço +" " +cidade);
-
+            Console.WriteLine("Seu endereço:" + " "+endereço +" " +cidade);
+            Console.WriteLine("seu CEP:"+ " " +CEP);
             Console.ReadKey();
 
 
